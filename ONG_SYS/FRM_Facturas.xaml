@@ -1,0 +1,28 @@
+﻿<Window x:Class="ONG_SYS.FRM_Facturas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ONG_SYS"
+        mc:Ignorable="d"
+        WindowState="Maximized"  
+        FontFamily="Microsoft JhengHei" 
+        FontSize="14" 
+        FontWeight="Bold" 
+        WindowStyle="ThreeDBorderWindow" 
+        Visibility="Visible" 
+        Background="Black" 
+        Icon="Logo.jpeg"
+        Title="Facturas" 
+        Height="450" 
+        Width="800">
+    <Grid>
+        <Image x:Name="Logo" HorizontalAlignment="Left" Width="89" Margin="10,145,0,165" Source="Logo.jpeg" Cursor=""/>
+        <DataGrid x:Name="dgv_facturas" Margin="104,97,55,81" IsReadOnly="True" Loaded="dgv_facturas_Loaded"/>
+        <Button x:Name="btn_Regresar" Content="REGRESAR" VerticalAlignment="Bottom"  Height="30" Background="#FF252323" Foreground="White" BorderBrush="Red" RenderTransformOrigin="0.51,0.173" HorizontalAlignment="Right" Width="160" FontSize="12" Margin="0,0,55,23" Click="btn_Regresar_Click"/>
+        <TextBox x:Name="tstBusf" HorizontalAlignment="Left" Height="24" Margin="255,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" KeyUp="TextBox_KeyUp"/>
+        <Label Content="Buscar por nombre" HorizontalAlignment="Left" Margin="104,64,0,0" VerticalAlignment="Top" Width="146" Height="28" Foreground="White"/>
+        <Button x:Name="btn_Regresar_Copy" Content="Visualizar Facturas" VerticalAlignment="Bottom"  Height="30" Background="#FF252323" Foreground="White" BorderBrush="Red" RenderTransformOrigin="0.51,0.173" HorizontalAlignment="Right" Width="160" FontSize="12" Margin="0,0,529.333,22.667" Click="btn_Regresar_Copy_Click"/>
+
+    </Grid>
+</Window>

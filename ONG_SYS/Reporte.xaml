@@ -1,0 +1,28 @@
+﻿<Window x:Class="ONG_SYS.Reporte"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ONG_SYS"
+        xmlns:rv="clr-namespace:Microsoft.Reporting.WinForms;assembly=Microsoft.ReportViewer.WinForms"
+        mc:Ignorable="d"
+      
+        FontFamily="Microsoft JhengHei" 
+        FontSize="14" 
+        FontWeight="Bold" 
+        Visibility="Visible" 
+        Background="Black"
+        Icon="Logo.jpeg"
+        Title="Reporte" 
+        Height="450" 
+        Width="800">
+    <Grid>
+        <WindowsFormsHost Margin="55,123,55,86" Name="windowsFormsHost1">
+            <rv:ReportViewer x:Name="reportViewer" />
+        </WindowsFormsHost>
+        <TextBox x:Name="txt_idFactura" Height="30" TextWrapping="Wrap"  VerticalAlignment="Top" FontSize="12" Margin="101,37,0,0" HorizontalAlignment="Left" Width="317"/>
+        <Button x:Name="btn_buscarFactura" Content="BUSCAR FACTURA" VerticalAlignment="Top"  Height="30" Background="#FF252323" Foreground="White" BorderBrush="Red" RenderTransformOrigin="0.51,0.173" HorizontalAlignment="Center" Width="160" FontSize="12" Click="btn_Agregar_NC_Click" Margin="460,37,172,0"/>
+        <Button x:Name="btn_Regresar" Content="REGRESAR" VerticalAlignment="Bottom"  Height="30" Background="#FF252323" Foreground="White" BorderBrush="Red" RenderTransformOrigin="0.51,0.173" HorizontalAlignment="Right" Width="160" FontSize="12" Margin="0,0,55,23" Click="btn_Regresar_Click"/>
+
+    </Grid>
+</Window>

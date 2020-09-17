@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4FDD48C6-9A73-45A5-97A9-1969F90C88CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ONG_SYS</RootNamespace>
+    <AssemblyName>ONG_SYS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.WPF, Version=4.7.0.37774, Culture=neutral, PublicKeyToken=0758b07a11a4f466, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.WPF.4.7.0.9\lib\net40\FontAwesome.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.WinForms.10.0.40219.1\lib\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbONG_VCompleta2DataSet.cs">
+      <DependentUpon>dbONG_VCompleta2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbONG_VCompleta2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbONG_VCompleta2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Facturas.xaml.cs">
+      <DependentUpon>FRM_Facturas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Principal_facturacion.xaml.cs">
+      <DependentUpon>FRM_Principal_facturacion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte.xaml.cs">
+      <DependentUpon>Reporte.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Facturacion.xaml.cs">
+      <DependentUpon>Facturacion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FMR_AUTENTICACION.xaml.cs">
+      <DependentUpon>FMR_AUTENTICACION.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Administracion_Clientes.xaml.cs">
+      <DependentUpon>FRM_Administracion_Clientes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Administracion_de_servicios.xaml.cs">
+      <DependentUpon>FRM_Administracion_de_servicios.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Administracion_Productos.xaml.cs">
+      <DependentUpon>FRM_Administracion_Productos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Administracion_Proveedores.xaml.cs">
+      <DependentUpon>FRM_Administracion_Proveedores.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Producto.xaml.cs">
+      <DependentUpon>FRM_Buscar_Producto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Proveedor.xaml.cs">
+      <DependentUpon>FRM_Buscar_Proveedor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Servicios.xaml.cs">
+      <DependentUpon>FRM_Buscar_Servicios.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_MENU_PRINCIPAL.xaml.cs">
+      <DependentUpon>FRM_MENU_PRINCIPAL.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_NuevoCliente.xaml.cs">
+      <DependentUpon>FRM_NuevoCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Principal_Cliente.xaml.cs">
+      <DependentUpon>FRM_Principal_Cliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListaClientesFactura.xaml.cs">
+      <DependentUpon>ListaClientesFactura.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="FacturaReport.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="dbONG_VCompleta2DataSet.xsc">
+      <DependentUpon>dbONG_VCompleta2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbONG_VCompleta2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbONG_VCompleta2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbONG_VCompleta2DataSet.xss">
+      <DependentUpon>dbONG_VCompleta2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Facturacion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FMR_AUTENTICACION.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_Administracion_Clientes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_Administracion_de_servicios.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_Administracion_Productos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_Administracion_Proveedores.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_Buscar_Producto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_Buscar_Proveedor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_Buscar_Servicios.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_Facturas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_MENU_PRINCIPAL.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_NuevoCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_Principal_Cliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FRM_Principal_facturacion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListaClientesFactura.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Reporte.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-almacén-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Logo.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-añadir-entrada-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-editar-propiedad-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-profile-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-car-service-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-invoice-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cuenta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-carro-de-elevación-aquí-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-trash-can-192.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="flecha-curva-trasera-izquierda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="mas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="actualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-car-service-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-supplier-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="agregar-usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ajustes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_de_Negocios_ONG_SYS\Capa_de_Negocios_ONG_SYS.csproj">
+      <Project>{b4ee777d-00eb-44e4-859e-0d4efa116ecb}</Project>
+      <Name>Capa_de_Negocios_ONG_SYS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icons8-agregar-recibo-100.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

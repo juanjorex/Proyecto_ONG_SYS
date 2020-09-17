@@ -1,0 +1,594 @@
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\bin\Debug\ONG_SYS.exe
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\bin\Debug\ONG_SYS.pdb
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\App.g.cs
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.exe
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.pdb
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\bin\Debug\ONG_SYS.exe
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\bin\Debug\ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\App.g.cs
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.exe
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\ONG_SYS\obj\Debug\ONG_SYS.pdb
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.pdb
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\App.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.exe
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.pdb
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.pdb
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\App.g.cs
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.baml
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.exe
+C:\Users\juanj\Downloads\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.pdb
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.pdb
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\App.g.cs
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.baml
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.exe
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+D:\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe
+D:\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\App.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.exe
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\App.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.baml
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.exe
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\RdlCompile.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\RdlCompile.compiled
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.g.cs
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.pdb
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\App.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.exe
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.pdb
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.pdb
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\App.g.cs
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.baml
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.exe
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.pdb
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.g.cs
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.baml
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\RdlCompile.cache
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\ONG_SYS\obj\Debug\RdlCompile.compiled
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.pdb
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\App.g.cs
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.baml
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.exe
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.pdb
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.pdb
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\App.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.baml
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.exe
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.pdb
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_facturacion.g.cs
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_facturacion.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe.config
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.exe
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.dll
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.dll
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Negocios_ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\FontAwesome.WPF.xml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_facturacion.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\App.g.cs
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.cache
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS_MarkupCompile.lref
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\Facturacion.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FMR_AUTENTICACION.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Clientes.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_de_servicios.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Productos.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Administracion_Proveedores.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Producto.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Proveedor.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Buscar_Servicios.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Facturas.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_MENU_PRINCIPAL.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_NuevoCliente.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_Cliente.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\FRM_Principal_facturacion.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ListaClientesFactura.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\Reporte.baml
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.g.resources
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.Properties.Resources.resources
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.GenerateResource.cache
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.csproj.CopyComplete
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.exe
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\ONG_SYS\obj\Debug\ONG_SYS.pdb

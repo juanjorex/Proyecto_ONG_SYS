@@ -1,0 +1,71 @@
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\SKBOSQUE\source\repos\ONG_SYS\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\Proyecto\ONG_SYS\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Downloads\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Downloads\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Downloads\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Downloads\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Downloads\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Downloads\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csproj.CoreCompileInputs.cache
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\Nueva carpeta (3)\Proyecto_Final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+D:\Desktop\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csproj.CoreCompileInputs.cache
+D:\Desktop\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csproj.CoreCompileInputs.cache
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\ONG_SYS2.0\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\LENOVO\source\repos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\NoboaJuanRepositorio\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csproj.CoreCompileInputs.cache
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+D:\Desktop\Nueva carpeta\Proyecto_final\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll.config
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\bin\Debug\Capa_de_Datos_ONG_SYS.pdb
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csprojAssemblyReference.cache
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.dll
+C:\Users\juanj\Desktop\Proyecto Eventos\ONG_SYS2.0\Capa_de_Datos_ONG_SYS\obj\Debug\Capa_de_Datos_ONG_SYS.pdb

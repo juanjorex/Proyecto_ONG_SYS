@@ -1,0 +1,26 @@
+﻿<Window x:Class="ONG_SYS.FRM_Buscar_Producto"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ONG_SYS"
+      mc:Ignorable="d" 
+      Title="FRM_Buscar_Producto" 
+      Height="493.284" 
+      Width="800" 
+      Background="Black"
+      Icon="Logo.jpeg"
+>
+    <Grid>
+        <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100*"/>
+                <ColumnDefinition Width="603*"/>
+                <ColumnDefinition Width="100*"/>
+            </Grid.ColumnDefinitions>
+            <DataGrid x:Name="dgv_productos" Height="265" Margin="10.333,101,9.667,0" VerticalAlignment="Top" Grid.Column="1" SelectionChanged="dgv_productos_SelectionChanged" IsReadOnly="True"/>
+            <Label x:Name="lbl_buscar_por_nombre" Content="NOMBRE DEL PRODUCTO" Grid.Column="1" Margin="30.333,41,409.667,0" VerticalAlignment="Top" Height="28" Foreground="White"/>
+            <TextBox x:Name="txt_nombreProducto" Grid.Column="1" HorizontalAlignment="Left" Height="28" Margin="252.333,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="198"/>
+            <Button x:Name="btn_buscar" Content="Buscar" VerticalAlignment="Top" Grid.Column="1" Margin="492.333,41,35.667,0" Height="28" Click="btn_buscar_Click"/>
+        <Image x:Name="Logo" HorizontalAlignment="Left" Width="89" Margin="10,177,0,176" Grid.ColumnSpan="2" Source="Logo.jpeg" Cursor=""/>
+    </Grid>
+</Window>

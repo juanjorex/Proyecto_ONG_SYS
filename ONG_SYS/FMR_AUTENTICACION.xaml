@@ -1,0 +1,45 @@
+﻿<Window x:Class="ONG_SYS.FMR_AUTENTICACION"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ONG_SYS"
+      mc:Ignorable="d"
+      Title="FMR_AUTENTICACION"
+       WindowState="Maximized"  FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold" WindowStyle="ThreeDBorderWindow" Visibility="Visible" Background="Black" Height="730.085" Width="1373.362" Icon="Logo.jpeg" 
+        >
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="142*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="342*"/>
+            <ColumnDefinition Width="342*"/>
+            <ColumnDefinition Width="303*"/>
+            <ColumnDefinition Width="380*"/>
+
+
+        </Grid.ColumnDefinitions>
+        <Label Content="LOGIN" Grid.Column="2" HorizontalAlignment="Left" Margin="0,110,0,0" VerticalAlignment="Top" Height="93" Width="167" Foreground="White" FontSize="48" RenderTransformOrigin="0.858,0.495"/>
+        <Canvas Grid.ColumnSpan="3" Grid.Column="1" Margin="113,275,379.667,0" Grid.RowSpan="3">
+            <Label Content="Usuario" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="22" Height="45" Width="156"/>
+            <Label Content="Contraseña" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="22" Width="156" Height="45" Canvas.Top="113"/>
+            <TextBox x:Name="txtUsuario" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="45" Width="349" Canvas.Left="183"/>
+            <PasswordBox x:Name="txtcontraU" HorizontalAlignment="Left" VerticalAlignment="Top" Height="45" Width="356" MaxLength="25" PasswordChar="*" Canvas.Left="176" Canvas.Top="113" />
+            <Button x:Name="btnIn" Content="Ingresar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="128" Foreground="#FFFFFBFB" BorderBrush="Red" Background="#FF252323" Height="45" Click="btnIn_Click" Canvas.Top="229"/>
+            <Button x:Name="btncn" Content="Cancelar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="128" Foreground="#FFFFFBFB" BorderBrush="Red" Background="#FF252323" Height="45" Click="btncn_Click" Canvas.Left="404" Canvas.Top="229"/>
+
+        </Canvas>
+
+        <Image HorizontalAlignment="Left" Height="281" VerticalAlignment="Top" Width="254" Source="Logo.jpeg" Margin="88,255,0,0" Grid.RowSpan="3"/>
+
+
+
+    </Grid>
+</Window>

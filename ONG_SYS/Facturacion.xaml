@@ -1,0 +1,77 @@
+﻿<Window x:Class="ONG_SYS.Facturacion"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ONG_SYS"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Facturacion" WindowState="Maximized" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold" 
+        WindowStyle="ThreeDBorderWindow" Visibility="Visible" Height="718" Width="1216.5" Background="Black" Icon="Logo.jpeg" Loaded="Window_Loaded">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="130*"/>
+
+            <ColumnDefinition Width="134*" />
+            <ColumnDefinition Width="164*" />
+            <ColumnDefinition Width="168*" />
+            <ColumnDefinition Width="160*" />
+            <ColumnDefinition Width="166*" />
+            <ColumnDefinition Width="153*" />
+            <ColumnDefinition Width="133*" />
+
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*" />
+            <RowDefinition Height="0.2*" />
+            <RowDefinition Height="0.2*" />
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Facturación" Grid.Column="3" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Grid.ColumnSpan="3" Height="77" Width="271" FontSize="36" Grid.RowSpan="2" Margin="115,15,0,0"/>
+        <Label Content="Nombre" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Top" Foreground="White" Height="29" Width="66" Margin="0,57,0,0" Grid.RowSpan="2"/>
+        <TextBox x:Name="txtNombre" Grid.Column="2" Height="29" Grid.Row="4" TextWrapping="Wrap" VerticalAlignment="Top" x:FieldModifier="public" PreviewTextInput="txtNombre_PreviewTextInput" IsEnabled="False" Margin="0,57,0,0" Grid.RowSpan="2"/>
+        <Label Content="Identificación" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Foreground="White" Grid.Column="1" Margin="0,57,0,0" Grid.RowSpan="2"/>
+        <Label Content="Dirección" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Foreground="White" Grid.Column="1" Margin="0,57,0,0" Grid.RowSpan="2"/>
+        <Label Content ="Telefono" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="6" VerticalAlignment="Top" Foreground="White" Margin="0,57,0,0" Grid.RowSpan="2" />
+        <Label Content="Correo" Grid.Row="5" Foreground="White" Grid.Column="1" Margin="0,58,0,0" HorizontalAlignment="Left" Width="56" Height="28" VerticalAlignment="Top" Grid.RowSpan="2"/>
+        <TextBox x:Name="txtCedula" Grid.Column="2" Height="28" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" x:FieldModifier="public" PreviewTextInput="txtCedula_PreviewTextInput" Margin="0,57,0,0" Grid.RowSpan="2"/>
+        <TextBox x:Name="txtTelefono" Grid.Column="2" Height="29" Grid.Row="6" TextWrapping="Wrap" VerticalAlignment="Top" x:FieldModifier="public" PreviewTextInput="txtTelefono_PreviewTextInput" IsEnabled="False" Margin="0,57,0,0" Grid.RowSpan="2"/>
+        <TextBox x:Name="txtDireccion" Grid.Column="2" Height="29" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Top" x:FieldModifier="public" IsEnabled="False" Margin="0,57,0,0" Grid.RowSpan="2"/>
+        <TextBox x:Name="txtCorreo" Grid.Column="2" Height="29" Grid.Row="5" TextWrapping="Wrap" VerticalAlignment="Top" x:FieldModifier="public" IsEnabled="False" Margin="0,57,0,0" Grid.RowSpan="2"/>
+        <DataGrid x:Name="DT_Facturacion" Height="214" Grid.Row="4" Grid.RowSpan="3" VerticalAlignment="Top" Grid.ColumnSpan="3" Margin="0,15,0,0" Grid.Column="4"/>
+        <Label Content="Subtotal" Grid.Column="4" HorizontalAlignment="Left" Margin="1,22,0,0" Grid.Row="7" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="% IVA" Grid.Column="4" HorizontalAlignment="Left" Margin="1,69,0,0" Grid.Row="7" VerticalAlignment="Top" Foreground="White" Grid.RowSpan="2"/>
+        <Label Content="Total" Grid.Column="4" HorizontalAlignment="Left" Margin="1,38,0,0" Grid.Row="8" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txt_subtotal" Grid.Column="4" HorizontalAlignment="Left" Height="23" Margin="97,28,0,0" Grid.Row="7" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2" IsEnabled="False"/>
+        <TextBox x:Name="txt_iva" Grid.Column="4" HorizontalAlignment="Left" Height="23" Margin="98,75,0,0" Grid.Row="7" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.RowSpan="2" Grid.ColumnSpan="2" IsEnabled="False"/>
+        <TextBox x:Name="txt_total" Grid.Column="4" HorizontalAlignment="Left" Height="23" Margin="98,44,0,0" Grid.Row="8" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2" IsEnabled="False"/>
+        <Label Content="Cantidad" Grid.Column="5" HorizontalAlignment="Left" Margin="95.333,56.667,0,0" Grid.Row="2" VerticalAlignment="Top" Foreground="White" Grid.RowSpan="2"/>
+        <Button x:Name="btn_agregarDetalle" Content="Agregar detalle" Grid.Column="4" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="166" Foreground="#FFFFFBFB" BorderBrush="Red" Background="#FF252323" Height="33" Margin="1.333,33,0,0" Click="btn_agregarDetalle_Click" Grid.ColumnSpan="2" />
+        <TextBox x:Name="txt_cantidad" Grid.Column="6" HorizontalAlignment="Left" Height="31" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="32.667,56.667,0,0" PreviewTextInput="txt_cantidad_PreviewTextInput" Grid.RowSpan="2"/>
+        <Button x:Name="btn_agregarServicio" Content="Agregar servicio" Grid.Column="4" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="134" Foreground="#FFFFFBFB" BorderBrush="Red" Background="#FF252323" Height="33" Click="btn_agregarServicio_Click" Margin="0.333,63.333,0,0" Grid.RowSpan="2"/>
+        <Button x:Name="btn_AgregarProducto" Content="Agregar Producto" Grid.Column="4" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="134"  Foreground="#FFFFFBFB" BorderBrush="Red" Background="#FF252323" Height="33" Click="btn_AgregarProducto_Click" Margin="0.333,54.667,0,0" Grid.RowSpan="2"/>
+        <Button x:Name="btnCF" Content="Crear factura" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="8" VerticalAlignment="Top" Width="154" Foreground ="White" Background="#FF424141" BorderBrush="Red" Height="46" Click="btnCF_Click_1" Grid.ColumnSpan="2" Margin="92,0,0,0" IsEnabled="False"   />
+        <Button x:Name="btnRs" Content="Regresar" HorizontalAlignment="Left" Grid.Row="8" VerticalAlignment="Top" Width="134" Foreground ="White" Background="#FF424141" BorderBrush="Red" Height="46" RenderTransformOrigin="0.572,-0.566" Click="btnRs_Click" Grid.Column="1"/>
+        <Button x:Name="btn_buscar" Content="Buscar" Grid.Column="3" Grid.Row="2" VerticalAlignment="Top" Foreground="#FFFFFBFB" BorderBrush="Red" Background="#FF252323" Height="28" RenderTransformOrigin="0.572,-0.566" HorizontalAlignment="Left" Width="64" Click="btn_buscar_Click" Margin="18,57.667,0,0" Grid.RowSpan="2"/>
+        <TextBox x:Name="txt_producto" Grid.Column="5" HorizontalAlignment="Left" Height="31" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="261" Margin="58.333,63.333,0,0" IsEnabled="False" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Button x:Name="btnRs_Copy" Content="Regresar" HorizontalAlignment="Left" Grid.Row="8" VerticalAlignment="Top" Width="134" Foreground="#FFFFFBFB" BorderBrush="Red" Background="#FF252323" Height="46" RenderTransformOrigin="0.572,-0.566" Click="btnRs_Click" Grid.Column="1"/>
+        <Button x:Name="btnRs_Copy1" Content="Generar Factura" HorizontalAlignment="Left" Grid.Row="7" VerticalAlignment="Top" Width="134" Foreground="#FFFFFBFB" BorderBrush="Red" Background="#FF252323" Height="46" RenderTransformOrigin="0.572,-0.566" Grid.Column="5" Margin="166.333,76.444,0,0" Click="btnRs_Copy1_Click" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Label Content="# de Factura:" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Foreground="White" Grid.Column="1" Margin="0,63,0,0" Grid.RowSpan="2"/>
+        <TextBox x:Name="txt_idFactura" Grid.Column="2" HorizontalAlignment="Left" Height="32" Margin="0,59.333,0,0" Grid.Row="1" Grid.RowSpan="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" IsEnabled="False"/>
+        <Image HorizontalAlignment="Left" Height="62" Margin="34,15,0,0" VerticalAlignment="Top" Width="48" Source="cuenta.png" RenderTransformOrigin="0.009,0.419" Grid.Column="3" Grid.RowSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="132" Margin="10,10,0,0" VerticalAlignment="Top" Width="120" Source="Logo.jpeg" RenderTransformOrigin="0.009,0.419" Grid.Row="3" Grid.RowSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="46" Margin="10.333,76.444,0,0" VerticalAlignment="Top" Width="48" Source="icons8-agregar-recibo-100.png" RenderTransformOrigin="0.009,0.419" Grid.Row="7" Grid.Column="7" Grid.RowSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="46" Margin="44,76.444,0,0" VerticalAlignment="Top" Width="48" Source="flecha-curva-trasera-izquierda.png" RenderTransformOrigin="0.009,0.419" Grid.Row="7" Grid.RowSpan="2"/>
+
+
+    </Grid>
+
+</Window>

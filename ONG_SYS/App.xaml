@@ -1,0 +1,9 @@
+﻿<Application x:Class="ONG_SYS.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ONG_SYS"
+             StartupUri="FMR_AUTENTICACION.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
